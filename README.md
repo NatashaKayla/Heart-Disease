@@ -78,9 +78,6 @@ Applied **GridSearchCV** to optimize XGBoost hyperparameters:
 | F1-Score  | Balanced                           | Better overall balance                  |
 | Precision | Slightly higher for majority class | Competitive                             |
 
-* **Random Forest** offers good baseline performance
-* **XGBoost** outperforms after tuning, especially on difficult cases
-
 ---
 
 ### 📈 Feature Importance
